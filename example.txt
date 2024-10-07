@@ -1,4 +1,0 @@
-INI ADALAH SAMPLE 1
-
-INI BARIS KEDUA
-cout << "halo"
